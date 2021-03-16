@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meirbeking
+- 👋 Hi, I’m Meirbek Bolatbekov
 - 👀 I’m interested in Computer Science & Web Development
 - 🌱 I’m currently learning Algorithms & Data Structures
 - 💞️ I’m looking to collaborate on learning DSA
