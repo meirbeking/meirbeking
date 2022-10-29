@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science & Web Development
 - 🌱 I’m currently learning Algorithms & Data Structures
 - 💞️ I’m looking to collaborate on learning DSA
-- 📫 How to reach me on telegram/instagram: @meirbnb
+- 📫 How to reach me on (tele/insta)gram: @meirbnb
 
 <!---
 meirbeking/meirbeking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
